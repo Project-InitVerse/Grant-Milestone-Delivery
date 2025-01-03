@@ -13,7 +13,7 @@ The Prometheus Project Highlights:
 
   Explore funding details, application criteria, the submission process, FAQs, and additional rewards details.
 
-- **The Prometheus Project** Introduction [Medium Link ]
+- **The Prometheus Project** Introduction  <https://inichain.gitbook.io/initverseinichain/initverse-grant-program-the-prometheus-project>
 - **The Prometheus Project** application Form <https://forms.gle/eWLajzqFgYEzfDB47>
 - **Website**: <https://initverse.org>
 - **Email**: business@inichain.com  
